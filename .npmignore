@@ -1,0 +1,15 @@
+bundled
+coverage
+node_modules
+
+docs
+src
+test
+
+cspell.json
+jest.config.js
+package-lock.json
+rollup.config.js
+
+tsconfig.json
+tslint.json

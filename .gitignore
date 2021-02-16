@@ -1,0 +1,15 @@
+# ignore the node_modules
+
+node_modules
+package-lock.json
+yarn.lock
+
+## the compile file
+
+bin
+
+bundled
+
+## the test file
+
+coverage
